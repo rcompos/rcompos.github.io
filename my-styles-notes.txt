@@ -19,10 +19,21 @@
      green 45deg 110deg, blue 110deg 200deg, purple 200deg);
 }
 
+# Conic Gradient Symmetric
+.nav-bar {
+  background: conic-gradient( 
+    blue 6deg, orange 6deg 45deg, yellow 45deg 135deg, 
+    green 135deg 174deg, purple 174deg 193deg, red 193deg 347deg,  blue 347deg);
+}
+
 .nav-bar__logo img {
   content: url(https://rcompos.github.io/cyber-owl.png);
 }
 
 body {
   background-image: url("https://rcompos.github.io/production.png");
+}
+
+body {
+  background-color: azure
 }
