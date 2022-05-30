@@ -5,11 +5,11 @@
 }
 
 body {
-  background-image: url("https://rcompos.github.io/production-sol-deuce.001.png");
+  background-image: url("https://rcompos.github.io/production-body.png");
 }
 
 }
 
 .top-bar{
-    background: azure;
+  background-image: url("https://rcompos.github.io/production-top-bar.png");
 }
