@@ -11,5 +11,5 @@ body {
 }
 
 .top-bar{
-  background-image: url("https://rcompos.github.io/production-top-bar.png");
+  background: purple;
 }
