@@ -22,3 +22,7 @@
 .nav-bar__logo img {
   content: url(https://rcompos.github.io/cyber-owl.png);
 }
+
+body {
+  background-image: url("https://rcompos.github.io/production.png");
+}
