@@ -1,7 +1,7 @@
 .nav-bar {
   background: conic-gradient( 
-    blue 6deg, orange 6deg 18deg, yellow 18deg 45deg, 
-    green 45deg 110deg, purple 110deg 145deg, red 145deg 300deg,  blue 300deg);
+    blue 6deg, orange 6deg 36deg, yellow 36deg 64deg, 
+    green 64deg 140deg, purple 140deg 240deg, red 240deg 300deg,  blue 300deg);
 }
 
 body {
